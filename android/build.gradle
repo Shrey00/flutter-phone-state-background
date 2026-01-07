@@ -44,7 +44,7 @@ android {
         minSdkVersion 16
     }
 
-    namespace 'me.sodipto.phone_state_background'
+    namespace = "me.sodipto.phone_state_background"
 }
 
 dependencies {
